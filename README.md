@@ -16,6 +16,10 @@
  </p>
 <h4 align="center">Barra de progresso de leitura com Javascript puro!</h4>
 
+<h1 align="center">
+  <img src="https://github.com/alexandredev3/reading-progress-bar/blob/master/bar-progress-edited.gif" />
+</h1>
+
 ## :computer: Languages
 
   - **#Javascript**
